@@ -1,0 +1,21 @@
+Bu proje üniversite örencilerini aldıkları puana göre okul puanlarını ve yerleştirme kontejyanlarını gözeterek öğrencileri
+üniversitelere yerleştirir. Bu proje not defterinde yazılmıştır okuması biraz zor olabilir. Öğrencileri cevaplarına göre cevap anahtarıyla karşılaştırarak
+doğru yanlış boş gibi durumları göz önüne alarak puanlar. 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+(1)Search for a student with a given id and display his/her name and last name.
+(2)List the university/universities and departments with a maximum base points.
+(3)Create a file named results.txt for each student
+(4)List the student information (id, name, last name) sorted by their score.
+(5)List the students placed in every university/department
+(6)List the students who were not be able to placed anywhere.
+(7)List all the departments.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Please enter your choice 1-7:
+
+1) öğrenciyi bulur ve ismini yazdırır.
+2) okulları max puana göre sıralar
+3) her öğrenci için doğru yanlış boş puanları ve kitapçıklarını gösteren bir txt oluşturur.
+4) öğrencileri puanlarına göre sıralar
+5) hangi öğrenci hangi okula yerleşt, onu gösterir
+6) yerleşemeyen öğrencileri gösterir
+7) tüm departmanları sıralar
